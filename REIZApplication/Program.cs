@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace REIZApplication
+namespace Problem2
 {
     /// first we create a class for the Branch and make it store a list of the nodes under a branch
     class Branch
